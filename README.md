@@ -19,7 +19,7 @@ You will see a simple demo app in which:
 
 1. Select dataframe
 
-![select](1-gen.png)
+![select](./1-gen.png)
 
 2. Generate
 
@@ -27,4 +27,4 @@ You will see a simple demo app in which:
 
 3. Profiling
 
-![profiling](3-gen.png)
+![profiling](./3-gen.png)
